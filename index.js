@@ -1,4 +1,4 @@
-var CryptoJS = require("./../crypto-js/index.js");
+var CryptoJS = require("crypto-js");
 var r;
 
 module.exports = function rand(len) {
